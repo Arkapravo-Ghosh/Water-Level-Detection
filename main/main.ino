@@ -1,5 +1,5 @@
-int trigPin = 2;
-int echoPin = 3;
+int trigPin = 3;
+int echoPin = 2;
 int relayPin = 8;
 int limit = 20;
 
